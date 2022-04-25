@@ -5,7 +5,7 @@
  */
 public class test {
     public static void main(String[] args) {
-        System.out.println("我是第四个版本");
+        System.out.println("我是第四个个版本");
         System.out.println("hot-fix改");
     }
 }
