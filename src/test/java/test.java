@@ -10,5 +10,6 @@ public class test {
         System.out.println("我是第四个个版本");
         System.out.println("hot-fix改");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
